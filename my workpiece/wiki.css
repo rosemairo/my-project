@@ -1,0 +1,46 @@
+.containerdiv {
+    height: 550px;
+    width: 900px;
+    text-align: center;
+    margin-top: 50px;
+    background-color:  #D7EFEE;
+    background-image:url(https://cdn-images-1.medium.com/proxy/1*lQWWgHf-jUvQVEyAKQLIkw@2x.png);
+    background-repeat: no-repeat;
+    background-position:20px 100%;
+    border-radius: 4px;
+    position: relative;
+    padding: 50px;
+    margin: 30px 195px;
+    box-sizing: border-box;
+    justify-content: center;
+    background-size: auto 290px;
+    left: 70px;
+}
+.containerdiv2 {
+    height: 550px;
+    width: 400px;
+    margin: auto;
+}
+h1 {
+    font-size: 32px; 
+    font-family:medium-marketing-display-font,Georgia,Cambria,"Times New Roman",Times,serif;
+    font-weight:500!;
+    line-height: 36px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ .font{
+    font-size: 17px;
+    font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+    letter-spacing: 0em;
+    line-height: 24px;
+    font-weight: 100px;
+
+}
+.btn {
+
+}
+.text {
+    
+}
